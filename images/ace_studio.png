@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="icon" href="/favicon.ico"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="dns-prefetch" href="https://as-api-ws-cdn-1.tdacestudio.com">
+  <link rel="preload" href="https://as-api-ws-cdn-1.tdacestudio.com/resource/official/ttf/Jost.ttf" as="font" type="font/woff2" crossorigin>
+  <script>
+    // 定义首页需要预加载的资源列表
+    const homePagePreloads = [
+      { href: 'https://as-api-ws-cdn-1.tdacestudio.com/resource/official/image/demo-tab1-video.webp', as: 'image', type: 'image/webp' },
+      { href: 'https://as-api-ws-cdn-1.tdacestudio.com/resource/official/img/home/home_computer.webp', as: 'image', type: 'image/webp' },
+      { href: 'https://as-api-ws-cdn-1.tdacestudio.com/web/video/demo-tab1-video.mp4', as: 'fetch', crossOrigin: 'anonymous' }
+    ];
+    // 判断当前路径是否为首页
+    if (window.location.pathname === '/') {
+      // 封装创建预加载标签的函数
+      function createPreloadLink(resource) {
+        // debugger;
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.href = resource.href;
+        link.as = resource.as;
+        if (resource.type) link.type = resource.type;
+        if (resource.crossOrigin) link.crossOrigin = resource.crossOrigin;
+        return link;
+      }
+      // 批量添加预加载资源
+      homePagePreloads.forEach(resource => {
+        document.head.appendChild(createPreloadLink(resource));
+      });
+    }
+  </script>
+
+  <script type="module" crossorigin src="/static/js/index.0f6dc616-1748244622030.js"></script>
+  <link rel="stylesheet" href="/static/css/index.9b88c965-1748244622030.css">
+</head>
+<body>
+<div id="app"></div>
+
+</body>
+</html>
