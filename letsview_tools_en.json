@@ -1,0 +1,1524 @@
+[
+  {
+    "name": "Gitmind Chat",
+    "info": "Your Best AI Assistant.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://gitmind.ai/chat",
+    "img": "images/gitmindai.be8f79e2.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Midjourney",
+    "info": "AI image generator accessed through Discord.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.midjourney.com/",
+    "img": "images/midjourney@256w.dc70af81.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Notion AI",
+    "info": "A writing assistant that can help you write, brainstorm, edit, summarize, and more.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.notion.so/product/ai/",
+    "img": "images/notionai.2dbed3d8.ico",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "GitMind",
+    "info": "A free AI-powered mind mapping tool.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.gitmind.com/",
+    "img": "images/gitmind@300w.6a5860ca.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "PicWish AI",
+    "info": "AI-powered image background removal and photo editor.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://picwish.com",
+    "img": "images/picwish.0ce40bea.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "LightPDF AI",
+    "info": "An AI-powered chatbot that can quickly read, analyze and summarize documents.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://lightpdf.com/chatdoc",
+    "img": "images/lightpdf.d727f6d2.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "GitHub Copilot",
+    "info": "AI pair programmer that offers autocomplete-style suggestions as you code.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://copilot.github.com/",
+    "img": "images/githubcopilot@512w.4ef03e6e.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "ChatGPT",
+    "info": "An AI chatbot developed by OpenAI.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://chat.openai.com",
+    "img": "images/chatgpt@32w.39336541.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Grammarly",
+    "info": "Top cloud-based spelling, grammar and plagiarism checker.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.grammarly.com/",
+    "img": "images/grammarly@32w.35ce9aa1.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "CopyAI",
+    "info": "An AI-powered copywriter that generates content.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.copy.ai/",
+    "img": "images/copyai@32w.193e3521.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Charactr.ai",
+    "info": "An AI software that lets you use chatrooms to talk with characters.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://beta.character.ai/",
+    "img": "images/charactrai@32w.fd7a770a.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Jasper.ai",
+    "info": "A copywriting tool that creates content automatically.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.jasper.ai/",
+    "img": "images/jasperai@32w.a9aaeaaa.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Poe",
+    "info": "AI chatbot ask and answer questions launched by Quora.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://poe.com/",
+    "img": "images/poe.b0fc3832.ico",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "QuillBot",
+    "info": "An AI-based online writing assistant.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.quillbot.com/",
+    "img": "images/quillbot.9c776a16.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Writefull",
+    "info": "A language-checking tool that is tailored to academic writing.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://writefull.com/",
+    "img": "images/writefull@250w.7708b6e8.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "OtterAI",
+    "info": "Write automatic meeting notes with real-time transcription using AI.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://otter.ai/",
+    "img": "images/otterai.4b8b2fbe.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "DALL-E 2",
+    "info": "An AI image generation tool developed by OpenAI.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://openai.com/dall-e-2",
+    "img": "images/openai.f8cd6605.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Runway",
+    "info": "AI generate images with words.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://runwayml.com/",
+    "img": "images/runwayml.1771bc0a.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Artbreeder",
+    "info": "Generate portraits and landscapes using AI.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.artbreeder.com/",
+    "img": "images/artbreeder@256w.0be18b64.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "DeepArtEffects",
+    "info": "A tool that uses AI to add artistic effects to photos and videos.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.deeparteffects.com/site/index/lang/en",
+    "img": "images/deeparteffects@32w.8818c966.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "DeepDream",
+    "info": "A tool that generates special effect images using Google's DeepDream technology.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://deepdreamgenerator.com/",
+    "img": "images/deepdream.7af84e61.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Let's Enhance",
+    "info": "An AI-based image enlargement and enhancement tool.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://letsenhance.io/",
+    "img": "images/letsenhance@512w.f30c3cae.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "remove.bg",
+    "info": "AI-powered photo background remover.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.remove.bg/",
+    "img": "images/remove.bg@32w.d8275263.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Prisma",
+    "info": "An AI-driven app that turns photos into artwork.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://prisma-ai.com/",
+    "img": "images/prisma@32w.219f7d7f.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Descript",
+    "info": "AI audio editing software, supporting automatic transcription and voice generation.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://www.descript.com/",
+    "img": "images/descript@256w.8ee27ca6.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Google Text-to-Speech",
+    "info": "Convert text into speech using an API powered by Google's AI technologies.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://cloud.google.com/text-to-speech",
+    "img": "images/cloudgoogle.5f8e85ad.ico",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Amazon Polly",
+    "info": "A text-to-speech service within the Amazon Web Services cloud platform.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://aws.amazon.com/polly/",
+    "img": "images/amazonpolly@114w.08aeacae.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Brain.fm",
+    "info": "A science-backed music app that enhances focus, improves sleep, and more.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://www.brain.fm/",
+    "img": "images/brainfm1@32w.3803cc1a.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "PolyAI",
+    "info": "PolyAI uses AI systems to infer what to say during a conversation with a customer.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://polyai.com/",
+    "img": "images/polyai@32w.1ee13c89.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Mubert",
+    "info": "Free music generation for App and content creators.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://mubert.com/",
+    "img": "images/mubert@32w.66ff9d22.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "AudacityAI",
+    "info": "Free and open-source digital audio editor and recording application software.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://www.audacityteam.org/",
+    "img": "images/audacityteam@512w.772e292e.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "iZotope RX",
+    "info": "Noise reduction and audio repair toolkit.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://www.izotope.com/en/products/rx.html",
+    "img": "images/izotoperx@32w.c6f6d2b4.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "D-ID",
+    "info": "Introducing NUI the Natural User Interface, aimed at revolutionizing how people interact with anything digital leveraging the power of AI",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://www.d-id.com/",
+    "img": "images/www_d-id_com_logo.svg",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Peech",
+    "info": "Smart automatic video editing platform.",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://www.peech-ai.com/",
+    "img": "images/peechai@32w.c9241a2e.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "EbSynth - Transform Video by Painting Over a Single Frame",
+    "info": "You paint one frame and EbSynth propagates it to the rest of the footage.",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://ebsynth.com/",
+    "img": "images/ebsynth_com_logo.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "VEED",
+    "info": "Create and edit videos fast, especially for social media sharing.",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://www.veed.io/",
+    "img": "images/veed.d0199123.ico",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Cursor",
+    "info": "Write, edit, and chat about your code with AI.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.cursor.so/",
+    "img": "images/cursor.82659e6e.ico",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "DeepCode",
+    "info": "AI code review notifies you of critical bugs in real time and shows how to fix them.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.deepcode.ai/",
+    "img": "images/deepcode@32w.ef3e42e3.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Tabnine",
+    "info": "AI code completion assistant that makes you a better developer.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://www.tabnine.com/",
+    "img": "images/tabnine@32w.76836c8a.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Codegrip",
+    "info": "Cloud-based automated code review and enterprise software analytics.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://codegrip.tech/",
+    "img": "images/codegrip@32w.a8eca230.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Visual Studio IntelliCode",
+    "info": "Drive accuracy and consistency with code completion that can fill in a whole line at once.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://visualstudio.microsoft.com/services/intellicode/",
+    "img": "images/microsoft@15w.11271ca1.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Beautiful.ai",
+    "info": "A cloud-based presentation platform to create beautiful presentations using smart templates.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.beautiful.ai/",
+    "img": "images/beautifulai@32w.5de45833.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Aiva",
+    "info": "The AI composing emotional soundtrack music.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://www.aiva.ai/",
+    "img": "images/aiva@32w.6020df9f.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Soul Machines",
+    "info": "AI creates autonomously animated Digital People.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.soulmachines.com/",
+    "img": "images/soulmachines@32w.62f9f1b3.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "AI Dungeon",
+    "info": "AI generates content for single-player and multiplayer text adventures.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.aidungeon.io/",
+    "img": "images/aidungeon@32w.f907a5fc.png",
+    "source": "LetsView",
+    "original_category": "HTML"
+  },
+  {
+    "name": "Bigjpg",
+    "info": "Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://bigjpg.com/",
+    "img": "images/bigjpg_-_ai_super-resolution_lossless_image_enlarging__upscaling_tool_using_deep_convolutional_neural_networks.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "AI Image Upscaler  Upscale Image Online Batch Free",
+    "info": "Try our free online image upscaler tool, capable of upscaling images by 400 and up to 16000x16000 resolution. Enlarge your images without compromising quality. Supports JPG, PNG, WEBP, and JPEG formats.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://imgupscaler.com",
+    "img": "images/ai_image_upscaler__upscale_image_online_batch_free.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Online Enhance Entry",
+    "info": "Free online Image Upscaler to upscale and enlarge images  photos with one click by 400 UPLOAD YOUR IMAGE, Enhance JPGPNGJPEGWEBPBMP  Download in seconds",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://ai.nero.com/enhance",
+    "img": "images/online_enhance_entry--nero_ai_image_upscaler__one_click_max_photo.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Free Background Image Remover",
+    "info": "Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.erase.bg",
+    "img": "images/free_background_image_remover__remove_bg_from_hd_images_online_-_erase_bg.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Remove Background from Image, Free, No Signup",
+    "info": "Image background removal without annoying subscriptions. Great quality at an unbeatable price.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://pixian.ai/",
+    "img": "images/remove_background_from_image__free__no_signup_-_pixian_ai.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "BgEraser | Bulk Remove Background from Images Online Free",
+    "info": "100% free online services to remove background from images in batch, replace background color in one single click, and download images in zip file.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://bgeraser.com",
+    "img": "images/bgeraser_com_logo.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Product Photography with AI, in seconds - Generate free",
+    "info": "The only AI Product image generator with free and unlimited generations. Create high quality product photoshoots with AI, in seconds.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://creatorkit.com/ai-product-photos",
+    "img": "images/product_photography_with_ai__in_seconds_-_generate_free.jpg",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Photo Editor  Free Image Editing Online - PhotoKit.com",
+    "info": "PhotoKit is an AI-based online photo editor, convenient and easy to use. Crop, resize, rotate and apply basic edits with ease, start to edit your photos, pictures and images with a free online photo editor.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://photokit.com/",
+    "img": "images/photo_editor__free_image_editing_online_-_photokit_com.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Imglarger | AI Image Enlarger, Enhancer, Editor and Converter",
+    "info": "Imglarger online now provides AI tools to enhance and upscale images and photos, we also offer online photo editors and image converters to help you edit and convert images online.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://imglarger.com/",
+    "img": "images/imglarger_com_logo.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Lossless Restoration of Old Photos with AI, Using 2025 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)",
+    "info": "jpgHD.com - Using 2025 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://jpghd.com",
+    "img": "images/lossless_restoration_of_old_photos_with_ai__using_2025_cutting-edge_ai_models_for_lossless_restoration_of_old_photos__supports_old__scratched_photo_restoration__colorization__and_magic_photo_.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "AI Photo Restoration  Album Management - Restore, Organize  Share Photos",
+    "info": "Professional photo restoration and album management platform. Restore old photos, enhance quality, organize into albums, share with family, remove backgrounds, increase resolution, and colorize photos. Try our free online tool today!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.photorestore.io/",
+    "img": "images/ai_photo_restoration__album_management_-_restore__organize__share_photos.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Watermark Remover - Remove Watermark from Images with AI",
+    "info": "Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.watermarkremover.io",
+    "img": "images/watermark_remover_-_remove_watermark_from_images_with_ai.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Design A New Logo  Brand Identity You Love! - LogoAI.com",
+    "info": "Let AI-powered logo maker generate your new logo and create a brand identity design you love.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.logoai.com/",
+    "img": "images/design_a_new_logo__brand_identity_you_love__-_logoai_com.svg",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "AI Logo Maker  Logo Maker  Logo Diffusion",
+    "info": "Create custom logos in seconds with Logo Diffusions AI Logo Maker. Start from sketches or text prompts and control every detail. Perfect for professionals and beginners, our tool uses the latest design trends to deliver high-quality results fast.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://logodiffusion.com/",
+    "img": "images/ai_logo_maker__logo_maker__logo_diffusion.png",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "Free Logo Maker  Create a Logo Online - Logomakerr.ai",
+    "info": "Create your own logo design in less than 5 minutes! Effortlessly create a logo using our AI logo generator and free AI logo maker to to perfect your branding!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://logomakerr.ai/",
+    "img": "images/free_logo_maker__create_a_logo_online_-_logomakerr_ai.svg",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "Workforce Analytics Software  AI Performance Management  Intelogos",
+    "info": "Discover Intelogos, your new powerful workforce analytics software. Transform your business with advanced insights and data-driven decisions",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.intelogos.com/",
+    "img": "images/workforce_analytics_software__ai_performance_management__intelogos.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "GitHub - levihsuOOTDiffusion: AAAI 2025 Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on",
+    "info": "AAAI 2025 Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - levihsuOOTDiffusion",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://github.com/levihsu/OOTDiffusion",
+    "img": "images/github_-_levihsuootdiffusion__aaai_2025_official_implementation_of_ootdiffusion__outfitting_fusion_based_latent_diffusion_for_controllable_virtual_try-on.svg",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Free AI Writer, Content Generator  Writing Assistant  Rytr",
+    "info": "Discover Rytr, your free AI writing assistant. Craft high-quality content faster than ever before. Start for free and upgrade as you grow!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://rytr.me/",
+    "img": "images/free_ai_writer__content_generator__writing_assistant__rytr.png",
+    "source": "AIBase",
+    "original_category": "äººå·¥æºè½"
+  },
+  {
+    "name": "Frase - Best SEO Content Optimization Tool & AI Writer",
+    "info": "Frase empowers content creators to go from keyword to well-researched, SEO-optimized articles faster and better.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.frase.io/",
+    "img": "images/www_frase_io_logo.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Saga AI  AI workspace for your notes, docs, and tasks",
+    "info": "Meet Saga AI - The artificial intelligence assistant inside your workspace. Draft content, generate creative ideas, fix grammar, and translate to more than 20 languages in 1 click.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://saga.so/ai",
+    "img": "images/saga_ai__ai_workspace_for_your_notes__docs__and_tasks.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Overleaf, Online LaTeX Editor",
+    "info": "An online LaTeX editor thats easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.overleaf.com/",
+    "img": "images/overleaf__online_latex_editor.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Jenni AI",
+    "info": "Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you make your writing more efficient, while still keeping control.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://www.jenni.ai/",
+    "img": "images/jenni_ai.png",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "AI Content  Text Authenticity Detection  Copyleaks",
+    "info": "Verify originality with Copyleaks AI detection, the only AI-based platform used by millions worldwide to ensure text authenticity and protect intellectual property.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://copyleaks.com",
+    "img": "images/ai_content__text_authenticity_detection__copyleaks.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AI Detector - Check AI Percentage for Free",
+    "info": "AI detector allows you to check AI percentage within the content. You can use AI checker with percentage to find if your content is written by a human or by an AI writing tool.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://ai-detector.info",
+    "img": "images/ai-detector_info_logo.svg",
+    "source": "AIBase",
+    "original_category": "å¶ä»"
+  },
+  {
+    "name": "The only cross-lingual plagiarism checker - Crossplag",
+    "info": "The most advanced and affordable plagiarism checking tool with the option for cross-lingual plagiarism detection",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://crossplag.com/",
+    "img": "images/the_only_cross-lingual_plagiarism_checker_-_crossplag.png",
+    "source": "AIBase",
+    "original_category": "æè²"
+  },
+  {
+    "name": "ChatGPT Detector for Essay Writing - Free and Accurate",
+    "info": "Looking for a free online ChatGPT detector to check an essay or research paper?  With this intuitive and accurate AI detection tool, youll easily find out  if a piece was written or generated.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://studycorgi.com/free-writing-tools/chat-gpt-detector/",
+    "img": "images/studycorgi_com_logo.svg",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "AI Detector  AI Checker for ChatGPT  More - Undetectable AI",
+    "info": "Use our free AI detector to check if your ChatGPT or AI text will be flagged as AI-generated. Get results from major AI checkers at once with one click.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://undetectable.ai",
+    "img": "images/ai_detector__ai_checker_for_chatgpt__more_-_undetectable_ai.ico",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "Sudowrite - Best AI Writing Partner for Fiction",
+    "info": "Write your novel or screenplay faster with the best AI tool for fiction. Start for free today and see why The New Yorker calls it a salvation for writers and why NY Times, The Verge, and many more love Sudowrite.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.sudowrite.com/",
+    "img": "images/sudowrite_-_best_ai_writing_partner_for_fiction.png",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "Squibler: AI Story Writer",
+    "info": "Become a better writer using a smart AI assistant that guides you from a blank page to holding your hard copy.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.squibler.io/",
+    "img": "images/squibler__ai_story_writer.png",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "WriteWise",
+    "info": "WriteWise is a professional AI-powered novel writing assistant. It helps you throughout the entire process of novel creation, boosting your efficiency and creativity. The latest AI technology understands your needs as a writer.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.ximalaya.com/gatekeeper/write-wise-web",
+    "img": "images/writewise.png",
+    "source": "AIBase",
+    "original_category": "写作"
+  },
+  {
+    "name": "The 1 AI Storytelling Platform: Create AI Stories and AI Movies",
+    "info": "Create AI stories and AI videos with consistent characters, interactive choices, and real-time generationjoin 500,000 monthly active users at Story.com",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.story.com/",
+    "img": "images/the_1_ai_storytelling_platform__create_ai_stories_and_ai_movies.png",
+    "source": "AIBase",
+    "original_category": "è§é¢"
+  },
+  {
+    "name": "Elicit: The AI Research Assistant",
+    "info": "Use AI to search, summarize, extract data from, and chat with over 125 million papers. Used by over 2 million researchers in academia and industry.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://elicit.com",
+    "img": "images/elicit__the_ai_research_assistant.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Resoomer  Résumeur pour faire un résumé de texte automatique en ligne",
+    "info": "Résoomer est un logiciel et outil en ligne pour résumé de texte : il vous permet de résumer et analyser vos articles en reprenant les concepts importants",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://resoomer.com",
+    "img": "images/resoomer__résumeur_pour_faire_un_résumé_de_texte_automatique_en_ligne.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "TLDR This - Article Summarizer  Online Text Summarizing Tool",
+    "info": "TLDR This is a Free online text summarizing tool that automatically condenses long articles, documents, essays, or papers into key summary paragraphs using state-of-the-art AI.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://tldrthis.com",
+    "img": "images/tldrthis_com_TLDR_This_-_Article_Summarizer__Online_Text_Summarizing_Tool.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Inksprout",
+    "info": "Make engaging, bite-size, social videos in seconds from your blog with AI-powered captions.",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://inksprout.co/",
+    "img": "images/inksprout.png",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "Surfer  SEO Content Optimization Platform",
+    "info": "Use Surfer to research, audit, write, optimize and generate SEO optimized articles in 20 minutes. Everything you need to create a comprehensive content strategy that yields real results is a click away with Surfer!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.surferseo.com/",
+    "img": "images/surfer__seo_content_optimization_platform.svg",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Scalenut  AI-SEO  Expert-Led Services for Growth",
+    "info": "Boost your rankings with Scalenuts AI-SEO tools and expert-led services. From strategy to execution, we help you scale organic traffic and drive real business results.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://scalenut.com/",
+    "img": "images/scalenut__ai-seo__expert-led_services_for_growth.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AI Content Underperforms. Anyword Closes the Feedback Loop.",
+    "info": "Anyword works with any AI model or application, adding AB-tested data at every step of the generation process. The result  a 30 lift in business outcomes.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://anyword.com",
+    "img": "images/ai_content_underperforms__anyword_closes_the_feedback_loop_.ico",
+    "source": "AIBase",
+    "original_category": "è¥é"
+  },
+  {
+    "name": "Campaign Assistant: HubSpots Free AI Marketing Asset Creator",
+    "info": "Use AI to create copy for your next ad, email, or landing page campaign. Provide your campaign info and generate the text you need.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://www.hubspot.com/campaign-assistant",
+    "img": "images/campaign_assistant__hubspots_free_ai_marketing_asset_creator.png",
+    "source": "AIBase",
+    "original_category": "è¥é"
+  },
+  {
+    "name": "Peppertype.ai  Create Quality Content Faster",
+    "info": "Use your favorite AI assistant with our intelligent text editor, Pepper Docs",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.peppertype.ai",
+    "img": "images/peppertype_ai__create_quality_content_faster.png",
+    "source": "AIBase",
+    "original_category": "åä½"
+  },
+  {
+    "name": "ChandlerAi",
+    "info": "ChandlerAi is your personal AI assistant. At ChandlerAi, you can explore GPT-4, image generation, PDF reading and more. ChandlerAi is used by millions of users around the world. ChandlerAi",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://chandler.bet",
+    "img": "images/chandlerai.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "PolitePost.net | Rewriting your emails with AI to be professional",
+    "info": "Make sure your emails are professional and suitable for the workplace.  Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text.  Professional emails in seconds.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://politepost.net",
+    "img": "images/politepost.net.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "PlusVibe - Master Cold Outreach with Smart Email Automation",
+    "info": "Tired of inefficient cold outreach tools? Discover a game-changing solution that guarantees superior deliverability, limitless email integrations, and AI-powered personalization.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://pipl.ai",
+    "img": "images/plusvibe_-_master_cold_outreach_with_smart_email_automation.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Luma AI  AI Video Generation with Ray2  Dream Machine  Luma AI",
+    "info": "Create, animate  innovate with Lumas AI. Use text, images, or video to generate realistic motion content with Ray2 and Dream Machine for next-gen storytelling.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://lumalabs.ai",
+    "img": "images/lumalabs_ai_logo.svg",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Home - Morph Studio",
+    "info": "Discover Morph Studios powerful AI-driven features designed to elevate your video creation and editing process. Our tools include text-to-video and image-to-video converters, video style transfer, advanced enhancers and upscalers, and video object removers, all crafted to streamline your workflow and deliver exceptional video quality for e-commerce, marketing, and professional projects.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.morphstudio.com/",
+    "img": "images/home_-_morph_studio.svg",
+    "source": "AIBase",
+    "original_category": "è§é¢"
+  },
+  {
+    "name": "Genmo  Open Video Generation",
+    "info": "Genmo is a frontier AI lab developing the best open video generation models. Create any video, possible or impossible, using Mochi 1.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.genmo.ai/",
+    "img": "images/genmo__open_video_generation.png",
+    "source": "AIBase",
+    "original_category": "è§é¢"
+  },
+  {
+    "name": "LensGo  Create Style Transfer Videos Easily",
+    "info": "LensGo is a free AI-powered tool for creating images and videos. Bring your favorite characters to videos with just one image! Make your first style transfer AI video with LensGo.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.lensgo.ai",
+    "img": "images/lensgo__create_style_transfer_videos_easily.ico",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "welcome to AI STUDIOS.",
+    "info": "AI Tools - DeepBrain AI",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://app.deepbrain.io/dashboard",
+    "img": "images/welcome_to_ai_studios_.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "DreamTalk",
+    "info": "AI Tools - DreamTalk",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://dreamtalk-project.github.io/",
+    "img": "images/dreamtalk.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Dashtoon: Read and create your own comics, manga and manhwa online",
+    "info": "Discover a diverse range of Manga and Manhwa, globalised for the world. Convert your stories into comics using our powerful Dashtoon Studio platform",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://dashtoon.com/",
+    "img": "images/dashtoon__read_and_create_your_own_comics__manga_and_manhwa_online.ico",
+    "source": "AIBase",
+    "original_category": "å¨±ä¹"
+  },
+  {
+    "name": "DomoAI  AI Art Generator  Video to Animation Converter",
+    "info": "AI video editor that converts videos, text, and images into animation. Make your character move as you want.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://domoai.app/",
+    "img": "images/domoai__ai_art_generator__video_to_animation_converter.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Stable Diffusion 3  Stability AI",
+    "info": "Announcing Stable Diffusion 3 in early preview, our most capable text-to-image model with greatly improved performance in multi-subject prompts, image quality, and spelling abilities.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://stability.ai/news/stable-diffusion-3",
+    "img": "images/stable_diffusion_3__stability_ai.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Gamma.AI - AI Powered Cloud DLP for SaaS",
+    "info": "Gamma is an event driven security awareness training solution using its patent pending AI technology. It continuously monitors your employees and notifies when an employee makes a security mistake.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://gamma.ai",
+    "img": "images/gamma_ai_-_ai_powered_cloud_dlp_for_saas.ico",
+    "source": "AIBase",
+    "original_category": "å®å¨"
+  },
+  {
+    "name": "Xmind AI: The Best AI Brainstorming  Mind Mapping Tool",
+    "info": "Discover Xmind AI, the ultimate tool for AI-powered brainstorming and mind mapping. Enhance your creative process with smart features that make idea generation, organization, and expansion effortless and intuitive.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://xmind.ai/",
+    "img": "images/xmind_ai__the_best_ai_brainstorming__mind_mapping_tool.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Kickresume  Best Online Resume  Cover Letter Builder",
+    "info": "Create your best resume yet. Online resume and cover letter builder used by 6,000,000 job seekers worldwide. Professional templates approved by recruiters.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.kickresume.com",
+    "img": "images/kickresume__best_online_resume__cover_letter_builder.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Legal AI Contract Review  Drafting  Spellbook",
+    "info": "Spellbook is the 1 Legal AI for for transactional lawyers. Using GPT-4o and other large language models to review and suggest language for your contracts, right in Microsoft Word.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://www.spellbook.legal/",
+    "img": "images/legal_ai_contract_review__drafting__spellbook.png",
+    "source": "AIBase",
+    "original_category": "äººå·¥æºè½ååèµ·èä¸å®¡æ¥"
+  },
+  {
+    "name": "PresentationGPT - The 1 AI Presentation Generator",
+    "info": "PresentationGPT is a highly advanced AI Powered Presentation Generator that can create stunning PowerPoint presentations in seconds.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.presentationgpt.com",
+    "img": "images/presentationgpt_-_the_1_ai_presentation_generator.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AI Online Whiteboard Making Collaboration a Breeze - Boardmix",
+    "info": "As an online collaborative whiteboard, Boardmix integrates whiteboard, mind map, flowchart, and various digital tools to boost team work efficiency. With Boardmix, you can easily find solutions in multiple business scenarios!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.boardmix.com/",
+    "img": "images/ai_online_whiteboard_making_collaboration_a_breeze_-_boardmix.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AudioNotes.ai",
+    "info": "AI tools - AudioNotes.ai",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://audionotes.ai/",
+    "img": "images/audionotes_ai.svg",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AI Powered Document Processing and Workflow Automation  DocumentPro",
+    "info": "Automated Workflows for Accounts Payable, Order Management, Data Extraction, and more.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.documentpro.ai",
+    "img": "images/ai_powered_document_processing_and_workflow_automation__documentpro.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Coda AI, the work assistant your team deserves - Coda",
+    "info": "Coda AI is the connected work assistant that knows your teamand can take action for you. Free for all Doc Makers. Discover whats possible with Coda AI.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://coda.io/product/ai-alpha",
+    "img": "images/coda_ai__the_work_assistant_your_team_deserves_-_coda.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Quivr - Customer Support Automation",
+    "info": "Turn your Customer Service into a Business Driver ! Automate up to 60 of all your tasks and leverage the power of AI to increase your customer satisfaction  value. Start your free trial today!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://quivr.app",
+    "img": "images/quivr_-_customer_support_automation.svg",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "GPT Excel - AI Powered Excel formula Generator",
+    "info": "AI-powered formula generation, SQL query generation, vba script generation and regex generation combined into one tool.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://gptexcel.uk",
+    "img": "images/gpt_excel_-_ai_powered_excel_formula_generator.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Excel AI: Create  Improve Processes Using AI Excel Tools",
+    "info": "Explore Excel AI capabilities with more than 18 AI Excel tools for your tasks - chat about your data, create charts, and get insights.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://ajelix.com",
+    "img": "images/excel_ai__create__improve_processes_using_ai_excel_tools.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "ExcelBot: AI-Powered Excel Formula  VBA Code Generator",
+    "info": "AI-Powered Excel Formula  VBA Code Generator.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://excelbot.io/",
+    "img": "images/excelbot__ai-powered_excel_formula__vba_code_generator.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Rows: The spreadsheet where data comes to life",
+    "info": "Slick design. Built-in integrations. Revolutionary sharing. Rows reinvented spreadsheets so teams do more, crazy fast.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://rows.com",
+    "img": "images/rows__the_spreadsheet_where_data_comes_to_life.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Fireflies.ai  AI Teammate to transcribe, summarize, analyze meetings, Real time AI note taker",
+    "info": "Fireflies uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams, Webex and several other platforms.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://fireflies.ai",
+    "img": "images/fireflies_ai__ai_teammate_to_transcribe__summarize__analyze_meetings__real_time_ai_note_taker.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Miro AI - Miro  The Innovation Workspace",
+    "info": "Unlock the power of your ideas with Miro AI  your new launchpad for creativity, collaboration, and productivity.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://miro.com/ai",
+    "img": "images/miro_ai_-_miro__the_innovation_workspace.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Transcription Made Easy with Otter.ai",
+    "info": "Transcription Made Easy with Otter.ai. Automated video and audio transcription in minutes.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://otterai.sjv.io/c/3697237/1063514/13661",
+    "img": "images/transcription_made_easy_with_otter_ai.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "ZoomScape.ai",
+    "info": "Create stunning Zoom backgrounds with AI",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://zoomscape.ai",
+    "img": "images/zoomscape_ai.svg",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Resume Builder and PDF CV Maker - Resume Star",
+    "info": "Create a professional resume or CV in minutes. Simply fill in your info and instantly get a professionally typeset PDF resume you can download, print, and email!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.resumestarapp.com/",
+    "img": "images/resume_builder_and_pdf_cv_maker_-_resume_star.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Free Online Resume Builder to Get Hired in 2025 - Resume.co",
+    "info": "Create a job-winning resume in 2025 using a free online resume builder in just 5 minutes. Choose from 20 professional, modern  creative resume templates.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://resume.co/",
+    "img": "images/free_online_resume_builder_to_get_hired_in_2025_-_resume_co.ico",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "App unavailable  Anthropic",
+    "info": "Anthropic is an AI safety and research company thats working to build reliable, interpretable, and steerable AI systems.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://claude.ai",
+    "img": "images/app_unavailable__anthropic.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Coze",
+    "info": "Coze is a next-generation AI application and chatbot developing platform for everyone. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.coze.com/",
+    "img": "images/coze.png",
+    "source": "AIBase",
+    "original_category": "èå¤©"
+  },
+  {
+    "name": "Replika",
+    "info": "Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://replika.com",
+    "img": "images/replika.png",
+    "source": "AIBase",
+    "original_category": "èå¤©"
+  },
+  {
+    "name": "ChatFAI - Discover AI Characters",
+    "info": "Discover and chat with your favorite AI characters from movies, TV shows, books, history, and more. ChatFAI is an AI powered experience that allows you to chat with your favorite characters.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://chatfai.com/",
+    "img": "images/chatfai_-_discover_ai_characters.png",
+    "source": "AIBase",
+    "original_category": "è¶£å³"
+  },
+  {
+    "name": "Airkit.ai eCommerce",
+    "info": "Try Airkit.ai eCommerce today and see the exciting revolution being led by autonomous AI agents.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://airkit.ai/",
+    "img": "images/airkit_ai_ecommerce.png",
+    "source": "AIBase",
+    "original_category": "åä¸"
+  },
+  {
+    "name": "Chatlify - AI Powered Chatbot",
+    "info": "AI Tools - Chatlify",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://chatlify.me/",
+    "img": "images/chatlify_-_ai_powered_chatbot.ico",
+    "source": "AIBase",
+    "original_category": "åä¸"
+  },
+  {
+    "name": "Answerly - AI Customer Support For your Business",
+    "info": "Take your website to the next level with cutting-edge drag-and-drop editor, AI copywriting, advanced targeting, performance reporting, and more.",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://answerly.io",
+    "img": "images/answerly_-_ai_customer_support_for_your_business.svg",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "Your AI-first customer support solution - Kastro",
+    "info": "a simple, budget-friendly all-in-one customer support solution where AI and people work better together. made for Startups and Indie Hackers.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://kastro.chat",
+    "img": "images/your_ai-first_customer_support_solution_-_kastro.ico",
+    "source": "AIBase",
+    "original_category": "èå¤©"
+  },
+  {
+    "name": "OpenCat - Chat with AI bot on the App Store",
+    "info": "OpenCat is an advanced AI utility tool natively designed for Mac, iPhone, and iPad that seamlessly integrates AI into your daily routine. OpenCat delivers a sm",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://apps.apple.com/us/app/opencat/id6445999201",
+    "img": "images/opencat_-_chat_with_ai_bot_on_the_app_store.png",
+    "source": "AIBase",
+    "original_category": "å®ç¨å·¥å·"
+  },
+  {
+    "name": "ChatHub - GPT-4o, Claude 4, Gemini 2.5 side by side",
+    "info": "Use and compare GPT-4o, Claude 4, Gemini 2.5 and more chatbots simultaneously",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://chathub.gg",
+    "img": "images/chathub_-_gpt-4o__claude_4__gemini_2_5_side_by_side.png",
+    "source": "AIBase",
+    "original_category": "èå¤©"
+  },
+  {
+    "name": "Cursor - The AI Code Editor",
+    "info": "Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://cursor.sh",
+    "img": "images/cursor_-_the_ai_code_editor.png",
+    "source": "AIBase",
+    "original_category": "ç¼ç¨"
+  },
+  {
+    "name": "Windsurf (formerly Codeium) - The most powerful AI Code Editor",
+    "info": "Windsurf (formerly Codeium) is the worlds most advanced AI coding assistant for developers and enterprises. Windsurf Editor  the first AI-native IDE that keeps developers in flow.",
+    "catname": "AI Chat",
+    "mainCat": "AI Chat",
+    "url": "https://www.codeium.com",
+    "img": "images/windsurf__formerly_codeium__-_the_most_powerful_ai_code_editor.png",
+    "source": "AIBase",
+    "original_category": "ç¼ç¨"
+  },
+  {
+    "name": "MarsX is a dev tool that unites AI, NoCode, Code and MicroApps",
+    "info": "AI-powered coding platform (dev tool) to build SaaS tools in days! MarsX  MarsAI or Mars AI.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.marsx.dev",
+    "img": "images/marsx_is_a_dev_tool_that_unites_ai__nocode__code_and_microapps.svg",
+    "source": "AIBase",
+    "original_category": "ç¼ç¨"
+  },
+  {
+    "name": "JetBrains AI  Intelligent Coding Assistance, AI Solutions, and More",
+    "info": "Transform your business with JetBrains AI solutions and services, including integrated AI tools and software development expertise.",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.jetbrains.com/ai/",
+    "img": "images/jetbrains_ai__intelligent_coding_assistance__ai_solutions__and_more.ico",
+    "source": "AIBase",
+    "original_category": "ç¼ç¨"
+  },
+  {
+    "name": "Fitten Code",
+    "info": "Fitten Code",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://code.fittentech.com/",
+    "img": "images/fitten_code.ico",
+    "source": "AIBase",
+    "original_category": "ç¼ç¨"
+  },
+  {
+    "name": "Udio  AI Music Generator - Official Website",
+    "info": "Discover, create, and share music with the world. Use the latest technology to create AI music in seconds.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.udio.com/",
+    "img": "images/udio__ai_music_generator_-_official_website.ico",
+    "source": "AIBase",
+    "original_category": "é³ä¹"
+  },
+  {
+    "name": "ACE Studio",
+    "info": "AI Tools - ACE Studio",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://ace-studio.timedomain.cn/",
+    "img": "images/ace_studio.png",
+    "source": "AIBase",
+    "original_category": "é³ä¹"
+  },
+  {
+    "name": "lucatacowhisperspeech-small  Run with an API on Replicate",
+    "info": "An Open Source text-to-speech system built by inverting Whisper",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://replicate.com/lucataco/whisperspeech-small",
+    "img": "images/lucatacowhisperspeech-small__run_with_an_api_on_replicate.ico",
+    "source": "AIBase",
+    "original_category": "é³ä¹"
+  },
+  {
+    "name": "Narakeet - Easily Create Voiceovers and Narrated Videos Using Realistic Text to Speech!",
+    "info": "Text to voice-over from Word DOCX and plain text files",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.narakeet.com/app/text-to-audio/",
+    "img": "images/narakeet_-_easily_create_voiceovers_and_narrated_videos_using_realistic_text_to_speech_.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "AI Music Generator SOUNDRAW",
+    "info": "Discover the power of AI generated music with our platform. Create unique songs in just a few clicks. Edit  personalize the songs you create to your specific needs. Generate unlimited royalty-free music to use in your songs, projects and videos. Distribute your songs anywhere and earn 100 of the royalties. Keep the license forever, even if you unsubscribe.",
+    "catname": "AI Audio",
+    "mainCat": "AI Audio",
+    "url": "https://soundraw.io",
+    "img": "images/ai_music_generator_soundraw.ico",
+    "source": "AIBase",
+    "original_category": "é³ä¹"
+  },
+  {
+    "name": "Pipio  Video Dubbing",
+    "info": "Add high-quality, synchronized voiceovers in multiple languages, making your videos accessible to a global audience. Enhance viewer engagement with precise, natural-sounding dubbing.",
+    "catname": "AI Video",
+    "mainCat": "AI Video",
+    "url": "https://www.pipio.ai/video-dubbing",
+    "img": "images/pipio__video_dubbing.png",
+    "source": "AIBase",
+    "original_category": "è§é¢"
+  },
+  {
+    "name": "Midlibrary: Midjourney AI Styles  SREF Codes Library. Midjourney Guides  Tools",
+    "info": "The most advanced library of Midjourney AI artistic styles (from V6.1 to niji) and SREF codes. Midjourney Guides  Tools for Midjourney workflow",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://midlibrary.io/",
+    "img": "images/midlibrary__midjourney_ai_styles__sref_codes_library__midjourney_guides__tools.png",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "PromptBase  Prompt Marketplace: Midjourney, ChatGPT, Sora, FLUX  more.",
+    "info": "Explore 200,000 curated AI prompts made by expert AI creators. Produce better outputs, save on time  API costs, sell your own prompts.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://promptbase.com",
+    "img": "images/promptbase__prompt_marketplace__midjourney__chatgpt__sora__flux__more_.png",
+    "source": "AIBase",
+    "original_category": "çäº§å"
+  },
+  {
+    "name": "promptoMANIA: AI art community with prompt generator",
+    "info": "PromptoMANIA is an AI art prompt generator. Create amazing and detailed prompts for any text-to-image diffusion model.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://promptomania.com/",
+    "img": "images/promptomania__ai_art_community_with_prompt_generator.png",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "Homepage - lib.kalos.art",
+    "info": "lib.KALOS.art  our Ultimate Ai Artistic Style Library  the Worlds Largest Collection of Artist  GenresMediums Styles for MJ v5.2  v4  SDXL  2.1  1.5",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://lib.kalos.art/",
+    "img": "images/homepage_-_lib_kalos_art.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "IMI Prompt: Midjourney Prompt Generator v5",
+    "info": "IMI Prompt Builder is a comprehensive Midjourney v5 prompt generator with thousands of options available on web, Android, and iOS. With just a few clicks, users can create unique Midjourney v5 artworks that reflect their personal style and artistic vision.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.imiprompt.com",
+    "img": "images/imi_prompt__midjourney_prompt_generator_v5.png",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "PromptPort - Navigate the Sea of Creativity with the Best Writing Prompts Around!",
+    "info": "PromptPort provides a universe of creative writing prompts to inspire your next story, poem, or essay. Explore our collection and find your inspiration today!",
+    "catname": "AI Writing",
+    "mainCat": "AI Writing",
+    "url": "https://promptport.ai/",
+    "img": "images/promptport_-_navigate_the_sea_of_creativity_with_the_best_writing_prompts_around_.ico",
+    "source": "AIBase",
+    "original_category": "èå¤©"
+  },
+  {
+    "name": "Image To prompt generator",
+    "info": "Image To Prompt Generator using ai",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://imagetopromptai.com",
+    "img": "images/image_to_prompt_generator.jpg",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Appicons.ai - AI App Icon Generator  Create Mobile Icons Instantly",
+    "info": "Generate stunning app icons with AI. Create professional mobile app icons, iOS icons, and Android icons in seconds. Free app icon generator powered by artificial intelligence.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://appicons.ai",
+    "img": "images/appicons_ai_-_ai_app_icon_generator__create_mobile_icons_instantly.png",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "Free Logo Maker  Create Your Own Logo Design  Logomaster.ai",
+    "info": "Logomaster.ai is your one-stop solution for professional logo design. Create and edit logos with ease, no design skills required. Try it now for free!",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://logomaster.ai",
+    "img": "images/free_logo_maker__create_your_own_logo_design__logomaster_ai.ico",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "PhotoMagic",
+    "info": "AI Tools - PhotoMagic",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.photomagic.cn/",
+    "img": "images/photomagic.svg",
+    "source": "AIBase",
+    "original_category": "å¾å"
+  },
+  {
+    "name": "Khroma - AI Color Tool for Designers  Discover and Save Color Palettes",
+    "info": "Khroma is the fastest way to discover, search, and save color combos and palettes youll love. Discover a personalized AI-powered color tool for designers to find the perfect color scheme.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://www.khroma.co/",
+    "img": "images/khroma_-_ai_color_tool_for_designers__discover_and_save_color_palettes.png",
+    "source": "AIBase",
+    "original_category": "è®¾è®¡"
+  },
+  {
+    "name": "Colossyan Creator - AI Video Generator",
+    "info": "Colossyan Creator makes video creation simple and stress-free. Discover our AI video generator with real actors. Create AI videos in less than 5 minutes.",
+    "catname": "AI Art",
+    "mainCat": "AI Art",
+    "url": "https://colossyan.com/",
+    "img": "images/colossyan_creator_-_ai_video_generator.png",
+    "source": "AIBase",
+    "original_category": "äººå·¥æºè½"
+  },
+  {
+    "name": "Consensus",
+    "info": "Evidence-Based Answers, Faster",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://consensus.app",
+    "img": "https://pic.chinaz.com/ai/logo/2024/0423/5939.jpg",
+    "source": "AIBase",
+    "original_category": "çäº§å",
+    "price": "Paid/Partial Free"
+  },
+  {
+    "name": "Storynest.ai",
+    "info": "AI-Powered Interactive Stories",
+    "catname": "AI Coding",
+    "mainCat": "AI Coding",
+    "url": "https://www.storynest.ai",
+    "img": "https://pic.chinaz.com/ai/logo/2024/0423/6351.jpg",
+    "source": "AIBase",
+    "original_category": "åä½",
+    "price": "Paid/Partial Free"
+  }
+]
